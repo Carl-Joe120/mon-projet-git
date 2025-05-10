@@ -1,2 +1,1 @@
-Ceci est un test Git
-Ligne sur main 
+Conflit depuis update-index
